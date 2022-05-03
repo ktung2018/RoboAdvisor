@@ -1,3 +1,9 @@
+### Lambda script for RoboAdvisor
+### Kim Tung
+### April 12, 2022
+### kimrtung@gmail.com
+###########################################################################
+
 ### Required Libraries ###
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
